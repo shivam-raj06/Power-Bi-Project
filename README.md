@@ -1,2 +1,2 @@
 # Power-Bi-Project
-The dashboard shows the car sales of the company.
+You will find projects on Power Bi here 
